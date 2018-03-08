@@ -1,6 +1,6 @@
 # Site settings
 title: KidjokeR Blog
-SEOTitle: 金志杰的博客 | KidjokeR Blog
+SEOTitle: 金志杰 | KidjokeR Blog
 header-img: img/home-bg.jpg
 email: superhero.04@hotmail.com
 description: ""
@@ -60,10 +60,10 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Sidebar settings
 sidebar: true
-sidebar-about-description: "人生不在初相逢， 
-洗尽铅华也从容， 
-年少都有凌云志， 
-平凡一生也英雄 。"
+sidebar-about-description: "浜虹敓涓嶅湪鍒濈浉閫紝 
+娲楀敖閾呭崕涔熶粠瀹癸紝 
+骞村皯閮芥湁鍑屼簯蹇楋紝 
+骞冲嚒涓�鐢熶篃鑻遍泟 銆�"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
