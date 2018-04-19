@@ -8,8 +8,6 @@ keyword: ""
 url: "http://kidjoker.cn"
 baseurl: "/"
 
-
-
 # SNS settings
 RSS: true
 github_username: kidjoker
@@ -17,8 +15,6 @@ github_username: kidjoker
 #zhihu_username: kidjoker
 #twitter_username: kidjoker
 #facebook_username: kidjoker
-
-
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -28,13 +24,9 @@ paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true
 
-
-
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
 gems: [jekyll-paginate]
-
-
 
 # Markdown settings
 # replace redcarpet to kramdown,
@@ -44,15 +36,11 @@ markdown: kramdown
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
-
-
 # Disqus settings
 #disqus_username: _your_disqus_short_name_
 
-
-
 # Duoshuo settings
-duoshuo_username: huxblog
+duoshuo_username: KidjokeRblog
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -60,10 +48,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Sidebar settings
 sidebar: true
-sidebar-about-description: "浜虹敓涓嶅湪鍒濈浉閫紝 
-娲楀敖閾呭崕涔熶粠瀹癸紝 
-骞村皯閮芥湁鍑屼簯蹇楋紝 
-骞冲嚒涓�鐢熶篃鑻遍泟 銆�"
+sidebar-about-description: "燕雀安知鸿鹄之志"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
