@@ -9,8 +9,8 @@ url: "http://kidjoker.cn"
 baseurl: "/"
 
 # SNS settings
-RSS: true
-github_username: kidjoker
+#RSS: true
+#github_username: kidjoker
 #weibo_username: kidjoker
 #zhihu_username: kidjoker
 #twitter_username: kidjoker
