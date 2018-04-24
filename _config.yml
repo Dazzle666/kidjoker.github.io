@@ -40,9 +40,9 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: KidjokeRblog
+#duoshuo_username: KidjokeRblog
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 # Sidebar settings
 sidebar: true
@@ -51,4 +51,4 @@ sidebar-avatar: /img/avatar-kidjoker.jpg      # use absolute URL, seeing it's us
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+featured-condition-size: 0              # A tag will be featured if the size of it is more than this condition value
